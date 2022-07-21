@@ -1,0 +1,653 @@
+2022-07-19 10:26:16,215 INFO  [Log] Login Success!! 
+2022-07-19 10:26:16,215 INFO  [Log] Switch Frame 
+2022-07-19 10:26:16,366 INFO  [Log] Frame Switch Success 
+2022-07-19 10:26:16,366 INFO  [Log] Add Employee 
+2022-07-19 10:26:19,032 INFO  [Log] Code Captured 
+2022-07-19 10:26:24,750 INFO  [Log] Employee Added 
+2022-07-19 10:26:24,750 INFO  [Log] Switch to Default 
+2022-07-19 10:26:24,755 INFO  [Log] Switch to Default Success 
+2022-07-19 10:26:24,755 INFO  [Log] Logout Application 
+2022-07-19 10:26:24,807 INFO  [Log] Logout Completed 
+2022-07-19 10:26:24,807 INFO  [Log] **Close Application** 
+2022-07-19 10:26:24,892 INFO  [Log] Application Closed 
+2022-07-19 10:26:35,587 INFO  [Log] Login Success!! 
+2022-07-19 10:26:38,592 INFO  [Log] Switch Frame 
+2022-07-19 10:26:38,638 INFO  [Log] Frame Switch Success 
+2022-07-19 10:26:41,649 INFO  [Log] Select Employee 
+2022-07-19 10:26:47,959 INFO  [Log] Employee 
+2022-07-19 10:26:50,968 INFO  [Log] Edit Employee 
+2022-07-19 10:26:55,517 INFO  [Log] Employee Edited 
+2022-07-19 10:26:58,520 INFO  [Log] Switch to Default 
+2022-07-19 10:26:58,523 INFO  [Log] Switch to Default Success 
+2022-07-19 10:27:01,536 INFO  [Log] Logout Application 
+2022-07-19 10:27:01,599 INFO  [Log] Logout Completed 
+2022-07-19 10:27:04,607 INFO  [Log] **Close Application** 
+2022-07-19 10:27:04,670 INFO  [Log] Application Closed 
+2022-07-19 10:27:16,741 INFO  [Log] Login Success!! 
+2022-07-19 10:27:19,755 INFO  [Log] Switch Frame 
+2022-07-19 10:27:19,787 INFO  [Log] Frame Switch Success 
+2022-07-19 10:27:22,794 INFO  [Log] Delete Employee 
+2022-07-19 10:33:01,163 INFO  [Log] Login Success!! 
+2022-07-19 10:33:01,163 INFO  [Log] Switch Frame 
+2022-07-19 10:33:01,200 INFO  [Log] Frame Switch Success 
+2022-07-19 10:33:01,200 INFO  [Log] Add Employee 
+2022-07-19 10:33:03,242 INFO  [Log] Code Captured 
+2022-07-19 10:33:18,765 INFO  [Log] Login Success!! 
+2022-07-19 10:33:21,771 INFO  [Log] Switch Frame 
+2022-07-19 10:33:21,803 INFO  [Log] Frame Switch Success 
+2022-07-19 10:33:24,818 INFO  [Log] Select Employee 
+2022-07-19 10:33:27,987 INFO  [Log] Employee 
+2022-07-19 10:33:30,990 INFO  [Log] Edit Employee 
+2022-07-19 10:33:37,260 INFO  [Log] Employee Edited 
+2022-07-19 10:33:40,270 INFO  [Log] Switch to Default 
+2022-07-19 10:33:40,270 INFO  [Log] Switch to Default Success 
+2022-07-19 10:33:43,277 INFO  [Log] Logout Application 
+2022-07-19 10:33:43,337 INFO  [Log] Logout Completed 
+2022-07-19 10:33:46,343 INFO  [Log] **Close Application** 
+2022-07-19 10:33:46,478 INFO  [Log] Application Closed 
+2022-07-19 10:34:01,278 INFO  [Log] Login Success!! 
+2022-07-19 10:34:04,286 INFO  [Log] Switch Frame 
+2022-07-19 10:34:04,318 INFO  [Log] Frame Switch Success 
+2022-07-19 10:34:07,319 INFO  [Log] Delete Employee 
+2022-07-19 10:35:30,547 INFO  [Log] Login Success!! 
+2022-07-19 10:35:30,548 INFO  [Log] Switch Frame 
+2022-07-19 10:35:30,582 INFO  [Log] Frame Switch Success 
+2022-07-19 10:35:30,582 INFO  [Log] Add Employee 
+2022-07-19 10:35:32,789 INFO  [Log] Code Captured 
+2022-07-19 10:35:48,639 INFO  [Log] Login Success!! 
+2022-07-19 10:35:51,652 INFO  [Log] Switch Frame 
+2022-07-19 10:35:51,668 INFO  [Log] Frame Switch Success 
+2022-07-19 10:35:54,671 INFO  [Log] Select Employee 
+2022-07-19 10:35:58,254 INFO  [Log] Employee 
+2022-07-19 10:36:01,257 INFO  [Log] Edit Employee 
+2022-07-19 10:36:14,195 INFO  [Log] Employee Edited 
+2022-07-19 10:36:17,208 INFO  [Log] Switch to Default 
+2022-07-19 10:36:17,208 INFO  [Log] Switch to Default Success 
+2022-07-19 10:36:20,211 INFO  [Log] Logout Application 
+2022-07-19 10:36:20,263 INFO  [Log] Logout Completed 
+2022-07-19 10:36:23,275 INFO  [Log] **Close Application** 
+2022-07-19 10:36:23,369 INFO  [Log] Application Closed 
+2022-07-19 10:36:36,268 INFO  [Log] Login Success!! 
+2022-07-19 10:36:39,277 INFO  [Log] Switch Frame 
+2022-07-19 10:36:39,308 INFO  [Log] Frame Switch Success 
+2022-07-19 10:36:42,318 INFO  [Log] Delete Employee 
+2022-07-19 10:40:20,325 INFO  [Log] Login Success!! 
+2022-07-19 10:40:20,325 INFO  [Log] Switch Frame 
+2022-07-19 10:40:20,361 INFO  [Log] Frame Switch Success 
+2022-07-19 10:40:20,361 INFO  [Log] Add Employee 
+2022-07-19 10:40:42,244 INFO  [Log] Login Success!! 
+2022-07-19 10:40:45,244 INFO  [Log] Switch Frame 
+2022-07-19 10:40:45,263 INFO  [Log] Frame Switch Success 
+2022-07-19 10:40:48,271 INFO  [Log] Select Employee 
+2022-07-19 10:40:51,520 INFO  [Log] Employee 
+2022-07-19 10:40:54,531 INFO  [Log] Edit Employee 
+2022-07-19 10:40:54,873 INFO  [Log] Code Captured 
+2022-07-19 10:40:57,153 INFO  [Log] Employee Edited 
+2022-07-19 10:41:00,168 INFO  [Log] Switch to Default 
+2022-07-19 10:41:00,175 INFO  [Log] Switch to Default Success 
+2022-07-19 10:41:03,183 INFO  [Log] Logout Application 
+2022-07-19 10:41:03,240 INFO  [Log] Logout Completed 
+2022-07-19 10:41:06,253 INFO  [Log] **Close Application** 
+2022-07-19 10:41:06,316 INFO  [Log] Application Closed 
+2022-07-19 10:41:19,504 INFO  [Log] Login Success!! 
+2022-07-19 10:41:22,513 INFO  [Log] Switch Frame 
+2022-07-19 10:41:22,547 INFO  [Log] Frame Switch Success 
+2022-07-19 10:41:25,548 INFO  [Log] Delete Employee 
+2022-07-19 10:48:56,355 INFO  [Log] Login Success!! 
+2022-07-19 10:48:56,356 INFO  [Log] Switch Frame 
+2022-07-19 10:48:56,392 INFO  [Log] Frame Switch Success 
+2022-07-19 10:48:56,392 INFO  [Log] Add Employee 
+2022-07-19 10:48:58,909 INFO  [Log] Code Captured 
+2022-07-19 10:49:04,481 INFO  [Log] Employee Added 
+2022-07-19 10:49:04,481 INFO  [Log] Switch to Default 
+2022-07-19 10:49:04,486 INFO  [Log] Switch to Default Success 
+2022-07-19 10:49:04,486 INFO  [Log] Logout Application 
+2022-07-19 10:49:04,530 INFO  [Log] Logout Completed 
+2022-07-19 10:49:04,531 INFO  [Log] **Close Application** 
+2022-07-19 10:49:04,598 INFO  [Log] Application Closed 
+2022-07-19 10:49:15,300 INFO  [Log] Login Success!! 
+2022-07-19 10:49:18,316 INFO  [Log] Switch Frame 
+2022-07-19 10:49:18,347 INFO  [Log] Frame Switch Success 
+2022-07-19 10:49:21,363 INFO  [Log] Select Employee 
+2022-07-19 10:49:25,730 INFO  [Log] Employee 
+2022-07-19 10:49:28,739 INFO  [Log] Edit Employee 
+2022-07-19 10:49:34,023 INFO  [Log] Employee Edited 
+2022-07-19 10:49:37,025 INFO  [Log] Switch to Default 
+2022-07-19 10:49:37,025 INFO  [Log] Switch to Default Success 
+2022-07-19 10:49:40,032 INFO  [Log] Logout Application 
+2022-07-19 10:49:40,088 INFO  [Log] Logout Completed 
+2022-07-19 10:49:43,088 INFO  [Log] **Close Application** 
+2022-07-19 10:49:43,166 INFO  [Log] Application Closed 
+2022-07-19 10:49:55,737 INFO  [Log] Login Success!! 
+2022-07-19 10:49:58,747 INFO  [Log] Switch Frame 
+2022-07-19 10:49:58,778 INFO  [Log] Frame Switch Success 
+2022-07-19 10:50:01,784 INFO  [Log] Delete Employee 
+2022-07-19 11:00:41,219 INFO  [Log] Login Success!! 
+2022-07-19 11:00:41,220 INFO  [Log] Switch Frame 
+2022-07-19 11:00:41,256 INFO  [Log] Frame Switch Success 
+2022-07-19 11:00:41,256 INFO  [Log] Add Employee 
+2022-07-19 11:00:44,942 INFO  [Log] Code Captured 
+2022-07-19 11:00:56,551 INFO  [Log] Employee Added 
+2022-07-19 11:00:56,551 INFO  [Log] Switch to Default 
+2022-07-19 11:00:56,555 INFO  [Log] Switch to Default Success 
+2022-07-19 11:00:56,555 INFO  [Log] Logout Application 
+2022-07-19 11:00:56,604 INFO  [Log] Logout Completed 
+2022-07-19 11:00:56,604 INFO  [Log] **Close Application** 
+2022-07-19 11:00:56,687 INFO  [Log] Application Closed 
+2022-07-19 11:01:10,105 INFO  [Log] Login Success!! 
+2022-07-19 11:01:13,114 INFO  [Log] Switch Frame 
+2022-07-19 11:01:13,145 INFO  [Log] Frame Switch Success 
+2022-07-19 11:01:16,158 INFO  [Log] Select Employee 
+2022-07-19 11:01:19,651 INFO  [Log] Employee 
+2022-07-19 11:01:22,666 INFO  [Log] Edit Employee 
+2022-07-19 11:01:27,026 INFO  [Log] Employee Edited 
+2022-07-19 11:01:30,041 INFO  [Log] Switch to Default 
+2022-07-19 11:01:30,041 INFO  [Log] Switch to Default Success 
+2022-07-19 11:01:33,052 INFO  [Log] Logout Application 
+2022-07-19 11:01:33,099 INFO  [Log] Logout Completed 
+2022-07-19 11:01:36,114 INFO  [Log] **Close Application** 
+2022-07-19 11:01:36,161 INFO  [Log] Application Closed 
+2022-07-19 11:01:49,344 INFO  [Log] Login Success!! 
+2022-07-19 11:01:52,346 INFO  [Log] Switch Frame 
+2022-07-19 11:01:52,362 INFO  [Log] Frame Switch Success 
+2022-07-19 11:01:55,373 INFO  [Log] Delete Employee 
+2022-07-19 11:07:09,356 INFO  [Log] Login Success!! 
+2022-07-19 11:07:09,357 INFO  [Log] Switch Frame 
+2022-07-19 11:07:09,393 INFO  [Log] Frame Switch Success 
+2022-07-19 11:07:09,393 INFO  [Log] Add Employee 
+2022-07-19 11:07:12,613 INFO  [Log] Code Captured 
+2022-07-19 11:07:21,513 INFO  [Log] Employee Added 
+2022-07-19 11:07:21,513 INFO  [Log] Switch to Default 
+2022-07-19 11:07:21,518 INFO  [Log] Switch to Default Success 
+2022-07-19 11:07:21,519 INFO  [Log] Logout Application 
+2022-07-19 11:07:21,569 INFO  [Log] Logout Completed 
+2022-07-19 11:07:21,569 INFO  [Log] **Close Application** 
+2022-07-19 11:07:21,685 INFO  [Log] Application Closed 
+2022-07-19 11:07:32,199 INFO  [Log] Login Success!! 
+2022-07-19 11:07:35,202 INFO  [Log] Switch Frame 
+2022-07-19 11:07:35,233 INFO  [Log] Frame Switch Success 
+2022-07-19 11:07:38,242 INFO  [Log] Select Employee 
+2022-07-19 11:07:41,901 INFO  [Log] Employee 
+2022-07-19 11:07:44,915 INFO  [Log] Edit Employee 
+2022-07-19 11:07:47,824 INFO  [Log] Employee Edited 
+2022-07-19 11:07:50,826 INFO  [Log] Switch to Default 
+2022-07-19 11:07:50,826 INFO  [Log] Switch to Default Success 
+2022-07-19 11:07:53,830 INFO  [Log] Logout Application 
+2022-07-19 11:07:53,886 INFO  [Log] Logout Completed 
+2022-07-19 11:07:56,892 INFO  [Log] **Close Application** 
+2022-07-19 11:07:56,954 INFO  [Log] Application Closed 
+2022-07-19 11:08:08,873 INFO  [Log] Login Success!! 
+2022-07-19 11:08:11,879 INFO  [Log] Switch Frame 
+2022-07-19 11:08:11,911 INFO  [Log] Frame Switch Success 
+2022-07-19 11:08:14,914 INFO  [Log] Delete Employee 
+2022-07-19 11:13:46,998 INFO  [Log] Login Success!! 
+2022-07-19 11:13:46,999 INFO  [Log] Switch Frame 
+2022-07-19 11:13:47,031 INFO  [Log] Frame Switch Success 
+2022-07-19 11:13:47,032 INFO  [Log] Add Employee 
+2022-07-19 11:14:22,386 INFO  [Log] Login Success!! 
+2022-07-19 11:14:25,400 INFO  [Log] Switch Frame 
+2022-07-19 11:14:25,431 INFO  [Log] Frame Switch Success 
+2022-07-19 11:14:28,442 INFO  [Log] Select Employee 
+2022-07-19 11:14:31,639 INFO  [Log] Employee 
+2022-07-19 11:14:34,646 INFO  [Log] Edit Employee 
+2022-07-19 11:14:38,648 INFO  [Log] Employee Edited 
+2022-07-19 11:14:41,652 INFO  [Log] Switch to Default 
+2022-07-19 11:14:41,652 INFO  [Log] Switch to Default Success 
+2022-07-19 11:14:44,652 INFO  [Log] Logout Application 
+2022-07-19 11:14:44,718 INFO  [Log] Logout Completed 
+2022-07-19 11:14:47,730 INFO  [Log] **Close Application** 
+2022-07-19 11:14:49,410 INFO  [Log] Application Closed 
+2022-07-19 11:15:02,969 INFO  [Log] Login Success!! 
+2022-07-19 11:15:05,979 INFO  [Log] Switch Frame 
+2022-07-19 11:15:06,011 INFO  [Log] Frame Switch Success 
+2022-07-19 11:15:09,020 INFO  [Log] Delete Employee 
+2022-07-19 11:16:21,541 INFO  [Log] Login Success!! 
+2022-07-19 11:16:21,541 INFO  [Log] Switch Frame 
+2022-07-19 11:16:21,575 INFO  [Log] Frame Switch Success 
+2022-07-19 11:16:21,575 INFO  [Log] Add Employee 
+2022-07-19 11:16:27,663 INFO  [Log] Switch to Default 
+2022-07-19 11:16:27,666 INFO  [Log] Switch to Default Success 
+2022-07-19 11:16:27,670 INFO  [Log] Switch Frame 
+2022-07-19 11:16:27,693 INFO  [Log] Frame Switch Success 
+2022-07-19 11:16:47,262 INFO  [Log] Login Success!! 
+2022-07-19 11:16:50,324 INFO  [Log] Switch Frame 
+2022-07-19 11:16:50,363 INFO  [Log] Frame Switch Success 
+2022-07-19 11:16:53,377 INFO  [Log] Select Employee 
+2022-07-19 11:16:56,827 INFO  [Log] Employee 
+2022-07-19 11:16:59,839 INFO  [Log] Edit Employee 
+2022-07-19 11:17:03,502 INFO  [Log] Employee Edited 
+2022-07-19 11:17:06,517 INFO  [Log] Switch to Default 
+2022-07-19 11:17:06,517 INFO  [Log] Switch to Default Success 
+2022-07-19 11:17:09,518 INFO  [Log] Logout Application 
+2022-07-19 11:17:09,564 INFO  [Log] Logout Completed 
+2022-07-19 11:17:12,580 INFO  [Log] **Close Application** 
+2022-07-19 11:17:12,643 INFO  [Log] Application Closed 
+2022-07-19 11:17:56,545 INFO  [Log] Login Success!! 
+2022-07-19 11:17:56,545 INFO  [Log] Switch Frame 
+2022-07-19 11:17:56,583 INFO  [Log] Frame Switch Success 
+2022-07-19 11:17:56,583 INFO  [Log] Add Employee 
+2022-07-19 11:18:05,375 INFO  [Log] Switch to Default 
+2022-07-19 11:18:05,381 INFO  [Log] Switch to Default Success 
+2022-07-19 11:18:05,386 INFO  [Log] Switch Frame 
+2022-07-19 11:18:05,409 INFO  [Log] Frame Switch Success 
+2022-07-19 11:18:27,223 INFO  [Log] Login Success!! 
+2022-07-19 11:18:30,231 INFO  [Log] Switch Frame 
+2022-07-19 11:18:30,267 INFO  [Log] Frame Switch Success 
+2022-07-19 11:18:33,270 INFO  [Log] Select Employee 
+2022-07-19 11:18:39,624 INFO  [Log] Employee 
+2022-07-19 11:18:42,636 INFO  [Log] Edit Employee 
+2022-07-19 11:18:45,190 INFO  [Log] Employee Edited 
+2022-07-19 11:18:48,198 INFO  [Log] Switch to Default 
+2022-07-19 11:18:48,198 INFO  [Log] Switch to Default Success 
+2022-07-19 11:18:51,199 INFO  [Log] Logout Application 
+2022-07-19 11:18:51,277 INFO  [Log] Logout Completed 
+2022-07-19 11:18:54,277 INFO  [Log] **Close Application** 
+2022-07-19 11:18:54,340 INFO  [Log] Application Closed 
+2022-07-19 11:19:09,464 INFO  [Log] Login Success!! 
+2022-07-19 11:19:12,465 INFO  [Log] Switch Frame 
+2022-07-19 11:19:12,499 INFO  [Log] Frame Switch Success 
+2022-07-19 11:19:15,508 INFO  [Log] Delete Employee 
+2022-07-19 11:25:26,669 INFO  [Log] Login Success!! 
+2022-07-19 11:25:26,669 INFO  [Log] Switch Frame 
+2022-07-19 11:25:26,705 INFO  [Log] Frame Switch Success 
+2022-07-19 11:25:26,705 INFO  [Log] Add Employee 
+2022-07-19 11:25:31,775 INFO  [Log] Code Captured 
+2022-07-19 11:25:31,776 INFO  [Log] Employee Added 
+2022-07-19 11:25:31,776 INFO  [Log] Switch to Default 
+2022-07-19 11:25:31,780 INFO  [Log] Switch to Default Success 
+2022-07-19 11:25:31,780 INFO  [Log] Logout Application 
+2022-07-19 11:25:31,825 INFO  [Log] Logout Completed 
+2022-07-19 11:25:31,825 INFO  [Log] **Close Application** 
+2022-07-19 11:25:31,887 INFO  [Log] Application Closed 
+2022-07-19 11:25:43,069 INFO  [Log] Login Success!! 
+2022-07-19 11:25:46,073 INFO  [Log] Switch Frame 
+2022-07-19 11:25:46,104 INFO  [Log] Frame Switch Success 
+2022-07-19 11:25:49,105 INFO  [Log] Select Employee 
+2022-07-19 11:25:53,224 INFO  [Log] Employee 
+2022-07-19 11:25:56,232 INFO  [Log] Edit Employee 
+2022-07-19 11:26:02,066 INFO  [Log] Employee Edited 
+2022-07-19 11:26:05,080 INFO  [Log] Switch to Default 
+2022-07-19 11:26:05,084 INFO  [Log] Switch to Default Success 
+2022-07-19 11:26:08,088 INFO  [Log] Logout Application 
+2022-07-19 11:26:08,142 INFO  [Log] Logout Completed 
+2022-07-19 11:26:11,146 INFO  [Log] **Close Application** 
+2022-07-19 11:26:11,209 INFO  [Log] Application Closed 
+2022-07-19 11:26:23,223 INFO  [Log] Login Success!! 
+2022-07-19 11:26:26,231 INFO  [Log] Switch Frame 
+2022-07-19 11:26:26,262 INFO  [Log] Frame Switch Success 
+2022-07-19 11:26:29,267 INFO  [Log] Delete Employee 
+2022-07-19 11:28:42,341 INFO  [Log] Login Success!! 
+2022-07-19 11:28:42,341 INFO  [Log] Switch Frame 
+2022-07-19 11:28:42,380 INFO  [Log] Frame Switch Success 
+2022-07-19 11:28:42,380 INFO  [Log] Add Employee 
+2022-07-19 11:29:08,803 INFO  [Log] Login Success!! 
+2022-07-19 11:29:11,820 INFO  [Log] Switch Frame 
+2022-07-19 11:29:11,858 INFO  [Log] Frame Switch Success 
+2022-07-19 11:29:14,859 INFO  [Log] Select Employee 
+2022-07-19 11:29:19,427 INFO  [Log] Employee 
+2022-07-19 11:29:22,439 INFO  [Log] Edit Employee 
+2022-07-19 11:29:25,749 INFO  [Log] Employee Edited 
+2022-07-19 11:29:28,777 INFO  [Log] Switch to Default 
+2022-07-19 11:29:28,784 INFO  [Log] Switch to Default Success 
+2022-07-19 11:29:31,802 INFO  [Log] Logout Application 
+2022-07-19 11:29:31,871 INFO  [Log] Logout Completed 
+2022-07-19 11:29:34,875 INFO  [Log] **Close Application** 
+2022-07-19 11:29:35,837 INFO  [Log] Application Closed 
+2022-07-19 11:29:47,271 INFO  [Log] Login Success!! 
+2022-07-19 11:29:50,281 INFO  [Log] Switch Frame 
+2022-07-19 11:30:09,435 INFO  [Log] Login Success!! 
+2022-07-19 11:30:09,436 INFO  [Log] Switch Frame 
+2022-07-19 11:30:09,470 INFO  [Log] Frame Switch Success 
+2022-07-19 11:30:09,470 INFO  [Log] Add Employee 
+2022-07-19 11:34:17,641 INFO  [Log] Login Success!! 
+2022-07-19 11:34:17,642 INFO  [Log] Switch Frame 
+2022-07-19 11:34:17,693 INFO  [Log] Frame Switch Success 
+2022-07-19 11:34:17,693 INFO  [Log] Add Employee 
+2022-07-19 11:34:26,928 INFO  [Log] Code Captured 
+2022-07-19 11:34:26,928 INFO  [Log] Employee Added 
+2022-07-19 11:34:26,928 INFO  [Log] Switch to Default 
+2022-07-19 11:34:26,932 INFO  [Log] Switch to Default Success 
+2022-07-19 11:34:26,932 INFO  [Log] Logout Application 
+2022-07-19 11:34:26,979 INFO  [Log] Logout Completed 
+2022-07-19 11:34:26,979 INFO  [Log] **Close Application** 
+2022-07-19 11:34:27,647 INFO  [Log] Application Closed 
+2022-07-19 11:35:34,163 INFO  [Log] Login Success!! 
+2022-07-19 11:35:34,163 INFO  [Log] Switch Frame 
+2022-07-19 11:35:34,199 INFO  [Log] Frame Switch Success 
+2022-07-19 11:35:34,199 INFO  [Log] Add Employee 
+2022-07-19 11:35:43,264 INFO  [Log] Code Captured 
+2022-07-19 11:35:43,264 INFO  [Log] Employee Added 
+2022-07-19 11:35:43,264 INFO  [Log] Switch to Default 
+2022-07-19 11:35:43,268 INFO  [Log] Switch to Default Success 
+2022-07-19 11:35:43,268 INFO  [Log] Logout Application 
+2022-07-19 11:35:43,313 INFO  [Log] Logout Completed 
+2022-07-19 11:35:43,313 INFO  [Log] **Close Application** 
+2022-07-19 11:35:43,508 INFO  [Log] Application Closed 
+2022-07-19 11:37:04,927 INFO  [Log] Login Success!! 
+2022-07-19 11:37:04,928 INFO  [Log] Switch Frame 
+2022-07-19 11:37:04,964 INFO  [Log] Frame Switch Success 
+2022-07-19 11:37:04,964 INFO  [Log] Add Employee 
+2022-07-19 11:37:24,989 INFO  [Log] Code Captured 
+2022-07-19 11:37:24,989 INFO  [Log] Employee Added 
+2022-07-19 11:37:24,990 INFO  [Log] Switch to Default 
+2022-07-19 11:37:24,995 INFO  [Log] Switch to Default Success 
+2022-07-19 11:37:24,995 INFO  [Log] Logout Application 
+2022-07-19 11:37:25,043 INFO  [Log] Logout Completed 
+2022-07-19 11:37:25,043 INFO  [Log] **Close Application** 
+2022-07-19 11:37:25,117 INFO  [Log] Application Closed 
+2022-07-19 11:38:08,267 INFO  [Log] Login Success!! 
+2022-07-19 11:38:08,268 INFO  [Log] Switch Frame 
+2022-07-19 11:38:08,302 INFO  [Log] Frame Switch Success 
+2022-07-19 11:38:08,302 INFO  [Log] Add Employee 
+2022-07-19 11:38:34,448 INFO  [Log] Code Captured 
+2022-07-19 11:38:34,449 INFO  [Log] Employee Added 
+2022-07-19 11:38:34,449 INFO  [Log] Switch to Default 
+2022-07-19 11:38:34,464 INFO  [Log] Switch to Default Success 
+2022-07-19 11:38:34,464 INFO  [Log] Logout Application 
+2022-07-19 11:38:34,513 INFO  [Log] Logout Completed 
+2022-07-19 11:38:34,513 INFO  [Log] **Close Application** 
+2022-07-19 11:38:34,595 INFO  [Log] Application Closed 
+2022-07-19 11:43:23,610 INFO  [Log] Login Success!! 
+2022-07-19 11:43:23,611 INFO  [Log] Switch Frame 
+2022-07-19 11:43:23,654 INFO  [Log] Frame Switch Success 
+2022-07-19 11:43:23,654 INFO  [Log] Add Employee 
+2022-07-19 11:43:37,896 INFO  [Log] Code Captured 
+2022-07-19 11:43:37,896 INFO  [Log] Employee Added 
+2022-07-19 11:43:37,896 INFO  [Log] Switch to Default 
+2022-07-19 11:43:37,901 INFO  [Log] Switch to Default Success 
+2022-07-19 11:43:37,901 INFO  [Log] Logout Application 
+2022-07-19 11:43:37,953 INFO  [Log] Logout Completed 
+2022-07-19 11:43:37,953 INFO  [Log] **Close Application** 
+2022-07-19 11:43:38,029 INFO  [Log] Application Closed 
+2022-07-19 11:44:14,198 INFO  [Log] Login Success!! 
+2022-07-19 11:44:14,198 INFO  [Log] Switch Frame 
+2022-07-19 11:44:14,233 INFO  [Log] Frame Switch Success 
+2022-07-19 11:44:14,234 INFO  [Log] Add Employee 
+2022-07-19 11:44:21,340 INFO  [Log] Code Captured 
+2022-07-19 11:44:21,340 INFO  [Log] Employee Added 
+2022-07-19 11:44:21,340 INFO  [Log] Switch to Default 
+2022-07-19 11:44:21,344 INFO  [Log] Switch to Default Success 
+2022-07-19 11:44:21,344 INFO  [Log] Logout Application 
+2022-07-19 11:44:21,392 INFO  [Log] Logout Completed 
+2022-07-19 11:44:21,392 INFO  [Log] **Close Application** 
+2022-07-19 11:44:22,536 INFO  [Log] Application Closed 
+2022-07-19 11:44:33,348 INFO  [Log] Login Success!! 
+2022-07-19 11:44:36,354 INFO  [Log] Switch Frame 
+2022-07-19 11:44:36,386 INFO  [Log] Frame Switch Success 
+2022-07-19 11:44:39,397 INFO  [Log] Select Employee 
+2022-07-19 11:44:42,512 INFO  [Log] Employee 
+2022-07-19 11:44:45,513 INFO  [Log] Edit Employee 
+2022-07-19 11:44:48,219 INFO  [Log] Employee Edited 
+2022-07-19 11:44:51,221 INFO  [Log] Switch to Default 
+2022-07-19 11:44:51,228 INFO  [Log] Switch to Default Success 
+2022-07-19 11:44:54,229 INFO  [Log] Logout Application 
+2022-07-19 11:44:54,278 INFO  [Log] Logout Completed 
+2022-07-19 11:44:57,281 INFO  [Log] **Close Application** 
+2022-07-19 11:44:57,461 INFO  [Log] Application Closed 
+2022-07-19 11:45:09,958 INFO  [Log] Login Success!! 
+2022-07-19 11:45:12,970 INFO  [Log] Switch Frame 
+2022-07-19 11:45:12,994 INFO  [Log] Frame Switch Success 
+2022-07-19 11:45:16,009 INFO  [Log] Delete Employee 
+2022-07-19 11:46:41,967 INFO  [Log] Login Success!! 
+2022-07-19 11:46:41,967 INFO  [Log] Switch Frame 
+2022-07-19 11:46:42,002 INFO  [Log] Frame Switch Success 
+2022-07-19 11:46:42,002 INFO  [Log] Add Employee 
+2022-07-19 11:46:53,846 INFO  [Log] Code Captured 
+2022-07-19 11:46:53,846 INFO  [Log] Employee Added 
+2022-07-19 11:46:53,846 INFO  [Log] Switch to Default 
+2022-07-19 11:46:53,851 INFO  [Log] Switch to Default Success 
+2022-07-19 11:46:53,851 INFO  [Log] Logout Application 
+2022-07-19 11:46:53,900 INFO  [Log] Logout Completed 
+2022-07-19 11:46:53,900 INFO  [Log] **Close Application** 
+2022-07-19 11:46:54,013 INFO  [Log] Application Closed 
+2022-07-19 11:47:08,255 INFO  [Log] Login Success!! 
+2022-07-19 11:47:11,258 INFO  [Log] Switch Frame 
+2022-07-19 11:47:11,289 INFO  [Log] Frame Switch Success 
+2022-07-19 11:47:14,289 INFO  [Log] Select Employee 
+2022-07-19 11:47:23,061 INFO  [Log] Employee 
+2022-07-19 11:47:26,065 INFO  [Log] Edit Employee 
+2022-07-19 11:47:33,125 INFO  [Log] Employee Edited 
+2022-07-19 11:47:36,140 INFO  [Log] Switch to Default 
+2022-07-19 11:47:36,146 INFO  [Log] Switch to Default Success 
+2022-07-19 11:47:39,160 INFO  [Log] Logout Application 
+2022-07-19 11:47:39,236 INFO  [Log] Logout Completed 
+2022-07-19 11:47:42,240 INFO  [Log] **Close Application** 
+2022-07-19 11:47:42,330 INFO  [Log] Application Closed 
+2022-07-19 11:47:56,751 INFO  [Log] Login Success!! 
+2022-07-19 11:47:59,759 INFO  [Log] Switch Frame 
+2022-07-19 11:47:59,790 INFO  [Log] Frame Switch Success 
+2022-07-19 11:48:02,805 INFO  [Log] Delete Employee 
+2022-07-19 11:48:06,261 INFO  [Log] Employee Deleted 
+2022-07-19 11:48:09,263 INFO  [Log] Switch to Default 
+2022-07-19 11:48:09,266 INFO  [Log] Switch to Default Success 
+2022-07-19 11:48:12,266 INFO  [Log] Logout Application 
+2022-07-19 11:48:12,322 INFO  [Log] Logout Completed 
+2022-07-19 11:48:15,325 INFO  [Log] **Close Application** 
+2022-07-19 11:48:15,410 INFO  [Log] Application Closed 
+2022-07-19 11:50:38,971 INFO  [Log] Login Success!! 
+2022-07-19 11:50:38,972 INFO  [Log] Switch Frame 
+2022-07-19 11:50:39,009 INFO  [Log] Frame Switch Success 
+2022-07-19 11:50:39,009 INFO  [Log] Add Employee 
+2022-07-19 11:50:52,189 INFO  [Log] Code Captured 
+2022-07-19 11:50:52,189 INFO  [Log] Employee Added 
+2022-07-19 11:50:52,189 INFO  [Log] Switch to Default 
+2022-07-19 11:50:52,194 INFO  [Log] Switch to Default Success 
+2022-07-19 11:50:52,194 INFO  [Log] Logout Application 
+2022-07-19 11:50:52,242 INFO  [Log] Logout Completed 
+2022-07-19 11:50:52,242 INFO  [Log] **Close Application** 
+2022-07-19 11:50:52,848 INFO  [Log] Application Closed 
+2022-07-19 11:51:05,469 INFO  [Log] Login Success!! 
+2022-07-19 11:51:08,479 INFO  [Log] Switch Frame 
+2022-07-19 11:51:08,510 INFO  [Log] Frame Switch Success 
+2022-07-19 11:51:11,517 INFO  [Log] Delete Employee 
+2022-07-19 11:51:13,656 INFO  [Log] Employee Deleted 
+2022-07-19 11:51:16,669 INFO  [Log] Switch to Default 
+2022-07-19 11:51:16,676 INFO  [Log] Switch to Default Success 
+2022-07-19 11:51:19,683 INFO  [Log] Logout Application 
+2022-07-19 11:51:19,732 INFO  [Log] Logout Completed 
+2022-07-19 11:51:22,733 INFO  [Log] **Close Application** 
+2022-07-19 11:51:23,306 INFO  [Log] Application Closed 
+2022-07-19 12:13:59,071 INFO  [Log] Login Success!! 
+2022-07-19 12:13:59,071 INFO  [Log] Switch Frame 
+2022-07-19 12:13:59,109 INFO  [Log] Frame Switch Success 
+2022-07-19 12:13:59,109 INFO  [Log] Add Employee 
+2022-07-19 12:14:07,567 INFO  [Log] Code Captured 
+2022-07-19 12:14:07,567 INFO  [Log] Employee Added 
+2022-07-19 12:14:07,567 INFO  [Log] Switch to Default 
+2022-07-19 12:14:07,571 INFO  [Log] Switch to Default Success 
+2022-07-19 12:14:07,571 INFO  [Log] Logout Application 
+2022-07-19 12:14:07,616 INFO  [Log] Logout Completed 
+2022-07-19 12:14:07,616 INFO  [Log] **Close Application** 
+2022-07-19 12:14:07,744 INFO  [Log] Application Closed 
+2022-07-19 12:14:20,015 INFO  [Log] Login Success!! 
+2022-07-19 12:14:23,024 INFO  [Log] Switch Frame 
+2022-07-19 12:14:23,056 INFO  [Log] Frame Switch Success 
+2022-07-19 12:14:26,058 INFO  [Log] Delete Employee 
+2022-07-19 12:14:26,058 INFO  [Log] Employee Deleted 
+2022-07-19 12:14:29,062 INFO  [Log] Switch to Default 
+2022-07-19 12:14:29,062 INFO  [Log] Switch to Default Success 
+2022-07-19 12:14:32,064 INFO  [Log] Logout Application 
+2022-07-19 12:14:32,112 INFO  [Log] Logout Completed 
+2022-07-19 12:14:35,122 INFO  [Log] **Close Application** 
+2022-07-19 12:14:35,289 INFO  [Log] Application Closed 
+2022-07-19 12:15:58,640 INFO  [Log] Login Success!! 
+2022-07-19 12:15:58,640 INFO  [Log] Switch Frame 
+2022-07-19 12:15:58,676 INFO  [Log] Frame Switch Success 
+2022-07-19 12:15:58,676 INFO  [Log] Add Employee 
+2022-07-19 12:16:10,267 INFO  [Log] Code Captured 
+2022-07-19 12:16:10,267 INFO  [Log] Employee Added 
+2022-07-19 12:16:10,267 INFO  [Log] Switch to Default 
+2022-07-19 12:16:10,273 INFO  [Log] Switch to Default Success 
+2022-07-19 12:16:10,273 INFO  [Log] Logout Application 
+2022-07-19 12:16:10,327 INFO  [Log] Logout Completed 
+2022-07-19 12:16:10,327 INFO  [Log] **Close Application** 
+2022-07-19 12:16:11,173 INFO  [Log] Application Closed 
+2022-07-19 12:16:24,209 INFO  [Log] Login Success!! 
+2022-07-19 12:16:24,209 INFO  [Log] Delete Employee 
+2022-07-19 12:16:24,210 INFO  [Log] Employee Deleted 
+2022-07-19 12:16:24,210 INFO  [Log] Logout Application 
+2022-07-19 12:16:24,268 INFO  [Log] Logout Completed 
+2022-07-19 12:16:27,270 INFO  [Log] **Close Application** 
+2022-07-19 12:16:27,335 INFO  [Log] Application Closed 
+2022-07-19 12:18:14,936 INFO  [Log] Login Success!! 
+2022-07-19 12:18:14,937 INFO  [Log] Switch Frame 
+2022-07-19 12:18:14,972 INFO  [Log] Frame Switch Success 
+2022-07-19 12:18:14,972 INFO  [Log] Add Employee 
+2022-07-19 12:18:17,281 INFO  [Log] Code Captured 
+2022-07-19 12:18:21,173 INFO  [Log] Employee Added 
+2022-07-19 12:18:21,174 INFO  [Log] Switch to Default 
+2022-07-19 12:18:21,178 INFO  [Log] Switch to Default Success 
+2022-07-19 12:18:21,178 INFO  [Log] Logout Application 
+2022-07-19 12:18:21,225 INFO  [Log] Logout Completed 
+2022-07-19 12:18:21,225 INFO  [Log] **Close Application** 
+2022-07-19 12:18:21,335 INFO  [Log] Application Closed 
+2022-07-19 12:18:31,904 INFO  [Log] Login Success!! 
+2022-07-19 12:18:34,927 INFO  [Log] Switch Frame 
+2022-07-19 12:18:34,959 INFO  [Log] Frame Switch Success 
+2022-07-19 12:18:37,962 INFO  [Log] Delete Employee 
+2022-07-19 12:18:39,924 INFO  [Log] Employee Deleted 
+2022-07-19 12:18:42,937 INFO  [Log] Switch to Default 
+2022-07-19 12:18:42,943 INFO  [Log] Switch to Default Success 
+2022-07-19 12:18:45,947 INFO  [Log] Logout Application 
+2022-07-19 12:18:45,997 INFO  [Log] Logout Completed 
+2022-07-19 12:18:49,011 INFO  [Log] **Close Application** 
+2022-07-19 12:18:49,093 INFO  [Log] Application Closed 
+2022-07-20 06:19:00,836 INFO  [Log] **** Login **** 
+2022-07-20 06:19:19,438 INFO  [Log] ****Login Success!!**** 
+2022-07-20 06:19:19,438 INFO  [Log] Switch Frame 
+2022-07-20 06:19:19,486 INFO  [Log] Frame Switch Success 
+2022-07-20 06:19:19,486 INFO  [Log] Add Employee 
+2022-07-20 06:19:23,131 INFO  [Log] Code Captured 
+2022-07-20 06:19:28,682 INFO  [Log] Employee Added 
+2022-07-20 06:19:28,682 INFO  [Log] Switch to Default 
+2022-07-20 06:19:28,688 INFO  [Log] Switch to Default Success 
+2022-07-20 06:19:28,688 INFO  [Log] Logout Application 
+2022-07-20 06:19:28,737 INFO  [Log] Logout Completed 
+2022-07-20 06:19:28,737 INFO  [Log] ****Close Application**** 
+2022-07-20 06:19:28,927 INFO  [Log] ****Application Closed**** 
+2022-07-20 06:19:28,943 INFO  [Log] **** Login **** 
+2022-07-20 06:19:42,085 INFO  [Log] ****Login Success!!**** 
+2022-07-20 06:19:45,096 INFO  [Log] Switch Frame 
+2022-07-20 06:19:45,129 INFO  [Log] Frame Switch Success 
+2022-07-20 06:19:48,131 INFO  [Log] Delete Employee 
+2022-07-20 06:19:49,954 INFO  [Log] Employee Deleted 
+2022-07-20 06:19:52,966 INFO  [Log] Switch to Default 
+2022-07-20 06:19:52,970 INFO  [Log] Switch to Default Success 
+2022-07-20 06:19:55,971 INFO  [Log] Logout Application 
+2022-07-20 06:19:56,035 INFO  [Log] Logout Completed 
+2022-07-20 06:19:59,038 INFO  [Log] ****Close Application**** 
+2022-07-20 06:19:59,701 INFO  [Log] ****Application Closed**** 
+2022-07-20 08:38:17,156 INFO  [Log] **** Login **** 
+2022-07-20 08:38:32,040 INFO  [Log] ****Login Success!!**** 
+2022-07-20 08:38:32,040 INFO  [Log] Switch Frame 
+2022-07-20 08:38:32,229 INFO  [Log] Frame Switch Success 
+2022-07-20 08:38:32,229 INFO  [Log] Add Employee 
+2022-07-20 08:38:34,076 INFO  [Log] Code Captured 
+2022-07-20 08:38:41,529 INFO  [Log] Employee Added 
+2022-07-20 08:38:41,529 INFO  [Log] Switch to Default 
+2022-07-20 08:38:41,533 INFO  [Log] Switch to Default Success 
+2022-07-20 08:38:41,533 INFO  [Log] Logout Application 
+2022-07-20 08:38:41,576 INFO  [Log] Logout Completed 
+2022-07-20 08:38:41,576 INFO  [Log] ****Close Application**** 
+2022-07-20 08:38:41,760 INFO  [Log] ****Application Closed**** 
+2022-07-20 08:38:41,770 INFO  [Log] **** Login **** 
+2022-07-20 08:38:56,628 INFO  [Log] ****Login Success!!**** 
+2022-07-20 08:38:59,628 INFO  [Log] Switch Frame 
+2022-07-20 08:38:59,658 INFO  [Log] Frame Switch Success 
+2022-07-20 08:39:02,665 INFO  [Log] Delete Employee 
+2022-07-20 08:39:04,517 INFO  [Log] Employee Deleted 
+2022-07-20 08:39:07,532 INFO  [Log] Switch to Default 
+2022-07-20 08:39:07,537 INFO  [Log] Switch to Default Success 
+2022-07-20 08:39:10,544 INFO  [Log] Logout Application 
+2022-07-20 08:39:10,589 INFO  [Log] Logout Completed 
+2022-07-20 08:39:13,592 INFO  [Log] ****Close Application**** 
+2022-07-20 08:39:13,740 INFO  [Log] ****Application Closed**** 
+2022-07-20 08:41:14,949 INFO  [Log] **** Login **** 
+2022-07-20 08:41:27,611 INFO  [Log] ****Login Success!!**** 
+2022-07-20 08:41:27,611 INFO  [Log] Switch Frame 
+2022-07-20 08:41:27,644 INFO  [Log] Frame Switch Success 
+2022-07-20 08:41:27,644 INFO  [Log] Add Employee 
+2022-07-20 08:41:31,217 INFO  [Log] Code Captured 
+2022-07-20 08:41:38,380 INFO  [Log] Employee Added 
+2022-07-20 08:41:38,380 INFO  [Log] Switch to Default 
+2022-07-20 08:41:38,386 INFO  [Log] Switch to Default Success 
+2022-07-20 08:41:38,387 INFO  [Log] Logout Application 
+2022-07-20 08:41:38,430 INFO  [Log] Logout Completed 
+2022-07-20 08:41:38,430 INFO  [Log] ****Close Application**** 
+2022-07-20 08:41:38,510 INFO  [Log] ****Application Closed**** 
+2022-07-20 08:41:38,517 INFO  [Log] **** Login **** 
+2022-07-20 08:41:51,094 INFO  [Log] ****Login Success!!**** 
+2022-07-20 08:41:54,100 INFO  [Log] Switch Frame 
+2022-07-20 08:41:54,130 INFO  [Log] Frame Switch Success 
+2022-07-20 08:41:57,140 INFO  [Log] Delete Employee 
+2022-07-20 08:41:58,921 INFO  [Log] Employee Deleted 
+2022-07-20 08:42:01,931 INFO  [Log] Switch to Default 
+2022-07-20 08:42:01,934 INFO  [Log] Switch to Default Success 
+2022-07-20 08:42:04,950 INFO  [Log] Logout Application 
+2022-07-20 08:42:04,998 INFO  [Log] Logout Completed 
+2022-07-20 08:42:08,004 INFO  [Log] ****Close Application**** 
+2022-07-20 08:42:08,070 INFO  [Log] ****Application Closed**** 
+2022-07-20 09:26:02,098 INFO  [Log] **** Login **** 
+2022-07-20 09:26:16,447 INFO  [Log] ****Login Success!!**** 
+2022-07-20 09:26:16,447 INFO  [Log] Switch Frame 
+2022-07-20 09:26:16,485 INFO  [Log] Frame Switch Success 
+2022-07-20 09:26:16,485 INFO  [Log] Add Employee 
+2022-07-20 09:26:18,494 INFO  [Log] Code Captured 
+2022-07-20 09:26:22,392 INFO  [Log] Employee Added 
+2022-07-20 09:26:22,392 INFO  [Log] Switch to Default 
+2022-07-20 09:26:22,397 INFO  [Log] Switch to Default Success 
+2022-07-20 09:26:22,397 INFO  [Log] Logout Application 
+2022-07-20 09:26:22,442 INFO  [Log] Logout Completed 
+2022-07-20 09:26:22,442 INFO  [Log] ****Close Application**** 
+2022-07-20 09:26:22,716 INFO  [Log] ****Application Closed**** 
+2022-07-20 09:26:22,728 INFO  [Log] **** Login **** 
+2022-07-20 09:26:35,112 INFO  [Log] ****Login Success!!**** 
+2022-07-20 09:26:38,123 INFO  [Log] Switch Frame 
+2022-07-20 09:26:38,182 INFO  [Log] Frame Switch Success 
+2022-07-20 09:26:41,193 INFO  [Log] Delete Employee 
+2022-07-20 09:26:42,997 INFO  [Log] Employee Deleted 
+2022-07-20 09:26:45,997 INFO  [Log] Switch to Default 
+2022-07-20 09:26:46,000 INFO  [Log] Switch to Default Success 
+2022-07-20 09:26:49,001 INFO  [Log] Logout Application 
+2022-07-20 09:26:49,047 INFO  [Log] Logout Completed 
+2022-07-20 09:26:52,057 INFO  [Log] ****Close Application**** 
+2022-07-20 09:26:52,139 INFO  [Log] ****Application Closed**** 
+2022-07-20 15:17:40,645 INFO  [Log] **** Login **** 
+2022-07-20 15:17:53,433 INFO  [Log] ****Login Success!!**** 
+2022-07-20 15:17:53,434 INFO  [Log] Switch Frame 
+2022-07-20 15:17:53,468 INFO  [Log] Frame Switch Success 
+2022-07-20 15:17:53,468 INFO  [Log] Add Employee 
+2022-07-20 15:17:56,941 INFO  [Log] Code Captured 
+2022-07-20 15:18:06,868 INFO  [Log] Employee Added 
+2022-07-20 15:18:06,868 INFO  [Log] Switch to Default 
+2022-07-20 15:18:06,873 INFO  [Log] Switch to Default Success 
+2022-07-20 15:18:06,873 INFO  [Log] Logout Application 
+2022-07-20 15:18:06,915 INFO  [Log] Logout Completed 
+2022-07-20 15:18:06,915 INFO  [Log] ****Close Application**** 
+2022-07-20 15:18:06,984 INFO  [Log] ****Application Closed**** 
+2022-07-20 15:18:07,023 INFO  [Log] **** Login **** 
+2022-07-20 15:18:20,734 INFO  [Log] ****Login Success!!**** 
+2022-07-20 15:18:23,746 INFO  [Log] Switch Frame 
+2022-07-20 15:18:23,794 INFO  [Log] Frame Switch Success 
+2022-07-20 15:18:26,799 INFO  [Log] Delete Employee 
+2022-07-20 15:18:28,640 INFO  [Log] Employee Deleted 
+2022-07-20 15:18:31,652 INFO  [Log] Switch to Default 
+2022-07-20 15:18:31,658 INFO  [Log] Switch to Default Success 
+2022-07-20 15:18:34,671 INFO  [Log] Logout Application 
+2022-07-20 15:18:34,712 INFO  [Log] Logout Completed 
+2022-07-20 15:18:37,724 INFO  [Log] ****Close Application**** 
+2022-07-20 15:18:38,535 INFO  [Log] ****Application Closed**** 
+2022-07-20 15:20:07,886 INFO  [Log] **** Login **** 
+2022-07-20 15:20:19,646 INFO  [Log] ****Login Success!!**** 
+2022-07-20 15:20:19,646 INFO  [Log] Switch Frame 
+2022-07-20 15:20:19,706 INFO  [Log] **** Login **** 
+2022-07-20 15:20:31,099 INFO  [Log] ****Login Success!!**** 
+2022-07-20 15:20:34,109 INFO  [Log] Switch Frame 
+2022-07-20 15:23:10,701 INFO  [Log] **** Login **** 
+2022-07-20 15:23:22,918 INFO  [Log] Switch Frame 
+2022-07-20 15:23:22,975 INFO  [Log] **** Login **** 
+2022-07-20 15:23:39,008 INFO  [Log] Switch Frame 
+2022-07-21 09:26:07,354 INFO  [Log] **** Login **** 
+2022-07-21 09:26:27,430 INFO  [Log] Switch Frame 
+2022-07-21 09:26:27,914 INFO  [Log] **** Login **** 
+2022-07-21 09:26:44,691 INFO  [Log] Switch Frame 
